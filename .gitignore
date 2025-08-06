@@ -1,0 +1,20 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Virtual environment
+venv/
+.venv/
+ENV/
+env/
+
+# Uploads folder for the web app
+# 이 폴더는 사용자가 업로드한 파일이 임시로 저장되는 곳이므로
+# Git 저장소에 포함시키지 않습니다.
+/uploads/
+
+# IDE / Editor specific
+.idea/
+.vscode/
