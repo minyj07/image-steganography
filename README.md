@@ -46,7 +46,7 @@ LSB 기법의 핵심 원리는 **"이 최하위 비트 하나를 바꾸더라도
 1.  **GitHub 저장소 복제(Clone)**
 
     ```bash
-    git clone https://github.com/<Your-Username>/image-steganography.git
+    git clone https://github.com/minyj07/image-steganography.git
     cd image-steganography
     ```
 
